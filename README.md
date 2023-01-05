@@ -23,3 +23,7 @@ To build the vehicule you will need some extra parts:
 This project is now in its version 2.0. The STL files are now in the /Modelv2.0 folder and the screenshots and assembly instructions in the /ScreenshotsV2.0 folder.
 
 ![General view](https://github.com/renaudet/3DTank/blob/main/ScreenshotsV2.0/tank3D_v2.0.png?raw=true)
+
+Assembly view in Fusion360. Notice that the picture above is slightly different. I had to review the turret and the piece that covers the suspension axes
+
+![General view](https://github.com/renaudet/3DTank/blob/main/ScreenshotsV2.0/build_23.PNG?raw=true)
