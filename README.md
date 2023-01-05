@@ -16,6 +16,10 @@ To build the vehicule you will need some extra parts:
 - about 3 meters iron filament
 - 1 Raspberry PI 3 B+ board plus SD card
 - 1 Waveshare Stepper Motor Hat
+- 1 Waveshare Servo Driver
 - 2 NEMA 17 Stepper motors
+- 2 micro servos (MG90S makes it just fine)
 - 1 11.2V 2200 MAh LiPo battery
 - 1 5MP FishEye camera for Raspberry PI
+
+This project is now in its version 2.0. The STL files are now in the /Modelv2.0 folder and the screenshots and assembly instructions in the /ScreenshotsV2.0 folder.
